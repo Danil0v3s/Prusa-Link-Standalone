@@ -1,0 +1,17 @@
+{
+  "name": "Prusa-Link-Standalone",
+  "version": "0.0.1",
+  "description": "Standalone version of Prusa's Link",
+  "main": "main.js",
+  "repository": "https://github.com/Danil0v3s/Prusa-Link-Standalone",
+  "author": "Danilo Lemes",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "@electron-forge/cli": "^6.0.0-beta.63",
+    "electron": "^18.2.0"
+  }
+}
